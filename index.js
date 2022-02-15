@@ -19,3 +19,5 @@ console.log('feijao');
 // ------------------
 
 console.log('mais um log');
+
+console.log('mais um log 2');
